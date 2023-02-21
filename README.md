@@ -1,4 +1,4 @@
-# Information-Systems-DEI
+# Informatic-Systems-DEI
 Some old projects made for Informatics Systems Course, using JAVA
 
 This folder contains two games: Hanoi Tower and Domino Game. 
